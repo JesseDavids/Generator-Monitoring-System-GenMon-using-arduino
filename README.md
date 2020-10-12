@@ -4,7 +4,7 @@ created by Jesse Davids.
 ### Purpose:
 The purpose of this repo is to monitor 2 different states of power, plus 1 fault detection system.
 First you have state power, and generator power. These can either be On/Off. The arduino will capture
-this information and send it to a website, which is hosted on the web server made on the arduino in JSON
+this information and send it to a **website**, which is hosted on the **web server** made on the arduino in JSON
 format.
 
 The arduino gets this info from 4 cold-contact switches on the generator. If one wire touches ground,
