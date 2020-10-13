@@ -1,7 +1,7 @@
 /*
 Author: Jesse Davids
 Date: 08/10/2020
-License: GNU GPLv3
+License: GNU GPLv2
 Coding platform: PlatformIO
 */
 
