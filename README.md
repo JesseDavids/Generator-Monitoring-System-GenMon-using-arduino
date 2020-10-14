@@ -25,4 +25,4 @@ Anyone is welcome to contribute to this project. Much thanks in advance :).
 to **Ground** on the arduino.
 1. 3 banana connectors.
 1. Out of the generator should come 4 banana connectors to connect with the arduino.
-1. Additionally you should get monitoring software to pull the JSON objects into a graph or whatever you like.
+1. Additionally you should get monitoring software to pull the JSON objects from the website into a graph or whatever you like.
