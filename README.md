@@ -28,6 +28,8 @@ to **Ground** on the arduino.
 1. Additionally you should get monitoring software to pull the JSON objects from the website into a graph or whatever you like.
 
 
+<h1>PLEASE NOTE: WE REPLACED THE BANANA CONNECTORS WITH RCA CONNECTORS SINCE IT WAS HAVING CONNECTION PROBLEMS</h1>
+
 ![title](IMG_3229.jpg)
 ![title](IMG_3231.jpg)
 ![title](image6.jpeg)
